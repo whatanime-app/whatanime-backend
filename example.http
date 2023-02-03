@@ -1,0 +1,25 @@
+### JIKAN
+
+GET http://localhost:3000/jikan/from/title/naruto HTTP/1.1
+
+###
+
+GET http://localhost:3000/jikan/from/mal_id/21 HTTP/1.1
+
+###
+
+GET http://localhost:3000/jikan/random HTTP/1.1
+
+###
+
+GET http://localhost:3000/jikan/top HTTP/1.1
+
+### QUOTE
+
+GET http://localhost:3000/quote/random HTTP/1.1
+
+###
+
+GET http://localhost:3000/quote/from/title/naruto HTTP/1.1
+
+###
